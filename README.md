@@ -3,7 +3,6 @@ Motion Blur Image Restoration Algorithm for Wind Power Equipment Based on Fourie
 
 
 # Motion Blur Image Restoration Algorithm for Wind Power Equipment Based on Fourier Convolution and HBN Mechanism
-# 采用傅里叶卷积和HBN机制的风电设备运动模糊图像复原算法
 
 
 
